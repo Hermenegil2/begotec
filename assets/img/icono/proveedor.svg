@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="27.7577mm" height="27.7577mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1462 1462"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#373435;stroke-width:10.5362}
+    .str4 {stroke:#FEFEFE;stroke-width:4.01429}
+    .str0 {stroke:#373435;stroke-width:4.01429}
+    .str2 {stroke:#5CC6D0;stroke-width:4.01429}
+    .str3 {stroke:#448C8E;stroke-width:4.01429}
+    .fil0 {fill:none}
+    .fil3 {fill:#FEFEFE}
+    .fil1 {fill:#5CC6D0}
+    .fil2 {fill:#448C8E}
+   ]]>
+  </style>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2133513907680">
+   <circle class="fil0 str0" cx="731" cy="731" r="729"/>
+   <path class="fil0 str1" d="M37 954c389,-278 983,-288 1383,17"/>
+   <path class="fil1 str2" d="M37 954c389,-278 983,-288 1383,17 26,-75 40,-156 40,-240 0,-403 -326,-729 -729,-729 -403,0 -729,326 -729,729 0,78 12,153 35,223z"/>
+   <path class="fil2 str3" d="M1420 971c-400,-305 -994,-295 -1383,-17 94,294 369,506 694,506 319,0 590,-204 689,-489z"/>
+  </g>
+  <path class="fil3 str4" d="M709 731l90 212c43,14 42,7 79,32 16,12 18,7 36,-1l116 -50c23,-10 59,-28 80,-34l-121 -283c-21,6 -52,22 -71,30l-141 62c-21,8 -54,18 -68,32z"/>
+  <path class="fil3 str4" d="M301 297l-21 0c-14,9 -33,18 -20,46 9,21 79,29 111,35 93,20 96,-28 138,74l129 308c14,35 29,68 43,103l47 105 37 -17c-9,-31 -28,-67 -40,-99 -13,-32 -28,-65 -41,-97 -18,-45 -155,-378 -167,-393 -11,-15 -28,-14 -50,-19 -27,-5 -30,-9 -51,-18 -33,-15 -82,-12 -115,-28z"/>
+  <path class="fil3 str4" d="M606 474c5,23 88,214 99,231l130 -55 -97 -232 -132 56z"/>
+  <path class="fil3 str4" d="M758 1084c-18,-60 69,-77 83,-27 15,60 -69,74 -83,27zm29 81l32 0c35,-18 83,-37 73,-110 -15,-110 -188,-103 -187,17 1,75 60,83 82,93z"/>
+  <path class="fil3 str4" d="M923 1043c26,-6 270,-110 283,-121 6,-55 -39,-27 -64,-16 -26,11 -53,22 -80,34 -51,21 -105,45 -157,66l18 37z"/>
+  <path class="fil3 str4" d="M817 541l39 94c23,-5 82,-31 96,-42 -7,-21 -30,-78 -41,-92l-94 40z"/>
+ </g>
+</svg>
