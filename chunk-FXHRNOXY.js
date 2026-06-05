@@ -1,0 +1,1 @@
+import{a}from"./chunk-6AWOMT7V.js";import"./chunk-TZXBT5Y4.js";import"./chunk-7PER3R5P.js";import"./chunk-P6SFQ4QK.js";import"./chunk-476FSQWX.js";import"./chunk-ETHK26SM.js";import"./chunk-DILGVLNK.js";import"./chunk-L6SPYJBE.js";import"./chunk-EQDQRRRY.js";export{a as DetalleInventarioComponent};
