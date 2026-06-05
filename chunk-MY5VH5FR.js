@@ -1,1 +1,0 @@
-import{a}from"./chunk-KZCO5OPX.js";import"./chunk-46VOQZTL.js";import"./chunk-GGTY7Y2X.js";import"./chunk-M4JEAYET.js";import"./chunk-IBIUUZAY.js";import"./chunk-EQDQRRRY.js";export{a as SerialComponent};
