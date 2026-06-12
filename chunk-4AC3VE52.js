@@ -1,0 +1,1 @@
+import{c as r}from"./chunk-O3KG5PHW.js";import{a as o}from"./chunk-I3BZ45F5.js";var a=class{id=0;fecha=new Date;hora="";costoTotalMateriaPrima=0;produccionDescripcion="";cantidadProduccion=0;costoTotalManoObra=0;costoTotalFabricacion=0;codigoInterno=0;estado=!1;funcionario=new o;producto=new r;produccionMateriaPrimas=[]};export{a};

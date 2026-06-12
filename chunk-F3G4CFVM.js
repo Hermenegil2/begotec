@@ -1,0 +1,1 @@
+import{a as e}from"./chunk-4AC3VE52.js";import{a as o}from"./chunk-I3BZ45F5.js";var n=class{id=0;fecha=new Date;hora="";codigoInternoProduccion="";cantidad=0;fechaEntrega=new Date;cantidadEntregada=0;estado=!1;produccionCostoCabecera=new e;funcionario=new o;funcionarioA=new o;ordenProduccionDetalles=[]};export{n as a};

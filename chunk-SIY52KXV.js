@@ -1,0 +1,1 @@
+import{a as r}from"./chunk-SQJSUKL5.js";import{a as t}from"./chunk-64MNEXPI.js";import{a as o}from"./chunk-I3BZ45F5.js";var e=class{id=0;timbrado="";timbradoInicio=new Date;timbradoFin=new Date;estado="";nroDocumento="";valorCotizacion="";tipo="";fecha=new Date;hora="";total=0;documento=new t;proveedor=new r;funcionario=new o;detalleCompra=[]};export{e as a};

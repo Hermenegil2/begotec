@@ -17949,6 +17949,11 @@ body {
   position: absolute;
 }
 
+.colorDialogMax mat-dialog-container {
+  padding: 0 !important;
+  overflow: hidden;
+}
+
 .max {
   background: rgb(255, 255, 255);
 }

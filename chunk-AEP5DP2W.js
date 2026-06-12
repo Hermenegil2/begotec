@@ -1,0 +1,1 @@
+import{a as e}from"./chunk-I3BZ45F5.js";var a=class{id=0;descripcion="";estado=!1};var o=class{id=0;estado=!1;fecha=new Date;hora="";saldoActual=0;saldoInicial=0;caja=new a;funcionario=new e;saldoInicialCheque=0;saldoActualCheque=0;saldoInicialTarjeta=0;saldoActualTarjeta=0};export{a,o as b};
