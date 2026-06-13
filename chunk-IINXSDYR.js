@@ -1,0 +1,1 @@
+import{a,b}from"./chunk-WNI5LSU3.js";import"./chunk-6LN6HIEZ.js";import"./chunk-NN5AP5GA.js";import"./chunk-TYMHNQCG.js";import"./chunk-SXJUSRZU.js";import"./chunk-B7H3UHYN.js";import"./chunk-GRDT34RQ.js";import"./chunk-ZA7ZFPDW.js";import"./chunk-EQDQRRRY.js";export{a as CuentaCliente,b as DetalleCuentaClienteComponent};

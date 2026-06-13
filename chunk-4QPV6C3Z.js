@@ -1,1 +1,0 @@
-import"./chunk-EQDQRRRY.js";var t=[{path:"inicio",loadComponent:()=>import("./chunk-IIJO7FSO.js").then(o=>o.InicioComponent)},{path:"acceso-restringido",loadComponent:()=>import("./chunk-5IYG5UGH.js").then(o=>o.AccesoRestringido)}];export{t as HOME_ROUTES};
