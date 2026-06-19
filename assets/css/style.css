@@ -17951,7 +17951,7 @@ body {
 
 .colorDialogMax mat-dialog-container {
   padding: 0 !important;
-  overflow: hidden;
+  overflow: auto;
 }
 
 .max {
